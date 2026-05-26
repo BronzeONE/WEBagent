@@ -1,0 +1,6 @@
+{
+  "success": true,
+  "session_id": "sess-demo-001",
+  "poll_interval_sec": 1,
+  "max_parallel_tasks": 2
+}

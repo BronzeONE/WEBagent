@@ -1,0 +1,16 @@
+{
+  "has_task": true,
+  "task": {
+    "task_id": "task-demo-001",
+    "type": "run_program",
+    "command": "echo",
+    "args": [
+      "demo-document-generated"
+    ],
+    "timeout_sec": 10,
+    "result": {
+      "wait_for_files": false,
+      "mask": "*.pdf"
+    }
+  }
+}

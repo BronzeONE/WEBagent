@@ -1,0 +1,9 @@
+.DS_Store
+.venv-pdf/
+build/
+agent*.log
+agent_state*.json
+results/
+results_demo/
+tasks/
+tasks_demo/
